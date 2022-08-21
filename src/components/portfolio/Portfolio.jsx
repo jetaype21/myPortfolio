@@ -10,7 +10,7 @@ const portfolio = [
   {
     id: 2,
     title: 'Web site GYM',
-    site: ''
+    site: 'https://gym2022.netlify.app/'
   },
   {
     id: 3,
