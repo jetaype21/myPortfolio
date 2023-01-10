@@ -17,7 +17,7 @@ const Header = () => {
           <img src='https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' alt="logo" />
         </div>
       </div>
-      <article>
+      <article style="width: 100%; height: 80px;">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7885628483894847"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
